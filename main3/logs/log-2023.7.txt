@@ -1,0 +1,615 @@
+[30 Temmuz 2023 • 22:17:35] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 22:18:13] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 22:18:16] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 22:18:51] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Bağış
+
+[30 Temmuz 2023 • 22:22:56] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 22:23:19] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 22:23:24] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 22:47:34] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 22:48:05] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 22:48:12] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 22:48:30] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Yetkiler
+
+[30 Temmuz 2023 • 22:48:40] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Yetkiler
+
+[30 Temmuz 2023 • 22:48:53] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Emojilere Çevir
+
+[30 Temmuz 2023 • 22:49:51] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 22:50:09] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 22:50:13] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 22:50:28] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Yetkiler
+
+[30 Temmuz 2023 • 22:50:38] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Çal
+
+[30 Temmuz 2023 • 22:50:45] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Bağış
+
+[30 Temmuz 2023 • 22:50:57] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Sunucu-bilgi
+
+[30 Temmuz 2023 • 22:51:45] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Emojilere Çevir
+
+[30 Temmuz 2023 • 22:53:08] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Emojilere Çevir
+
+[30 Temmuz 2023 • 22:54:40] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Emojilere Çevir
+
+[30 Temmuz 2023 • 22:55:43] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 22:56:05] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 22:56:12] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 22:56:25] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Sunucu-bilgi
+
+[30 Temmuz 2023 • 22:56:41] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Temizle
+
+[30 Temmuz 2023 • 22:56:47] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Temizle
+
+[30 Temmuz 2023 • 22:56:59] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Log
+
+[30 Temmuz 2023 • 22:57:17] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Captcha
+
+[30 Temmuz 2023 • 22:57:52] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Komutlar
+ => Content: bey!yardım
+
+[30 Temmuz 2023 • 22:58:27] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Spam-koruması
+
+[30 Temmuz 2023 • 23:00:33] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Döviz
+ => Content: bey!doviz
+
+[30 Temmuz 2023 • 23:01:50] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 23:02:13] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 23:02:16] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 23:02:58] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Bot
+
+[30 Temmuz 2023 • 23:02:59] (ERROR) Error Log
+ => ID: 1690747379516
+ => Content: Error: Invalid URL
+
+[30 Temmuz 2023 • 23:03:37] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Bot
+
+[30 Temmuz 2023 • 23:03:37] (ERROR) Error Log
+ => ID: 1690747417655
+ => Content: Error: Invalid URL
+
+[30 Temmuz 2023 • 23:05:11] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Bot
+
+[30 Temmuz 2023 • 23:05:12] (ERROR) Error Log
+ => ID: 1690747512032
+ => Content: Error: Invalid URL
+
+[30 Temmuz 2023 • 23:08:18] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Bot
+
+[30 Temmuz 2023 • 23:08:19] (ERROR) Error Log
+ => ID: 1690747699212
+ => Content: Error: Invalid URL
+
+[30 Temmuz 2023 • 23:11:02] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 23:11:20] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 23:11:25] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 23:11:36] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Eval
+ => Content: bey!eval
+
+[30 Temmuz 2023 • 23:11:48] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Eval
+ => Content: bey!Eval
+
+[30 Temmuz 2023 • 23:12:34] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Log
+
+[30 Temmuz 2023 • 23:13:03] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Log
+
+[30 Temmuz 2023 • 23:13:45] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Komutlar
+ => Content: bey!help
+
+[30 Temmuz 2023 • 23:14:54] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 23:15:16] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 23:15:21] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 23:15:29] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Komutlar
+ => Content: bey!yardım
+
+[30 Temmuz 2023 • 23:16:01] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Şifre
+
+[30 Temmuz 2023 • 23:16:12] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Tarihte-bugün
+
+[30 Temmuz 2023 • 23:16:31] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Spam-koruması
+
+[30 Temmuz 2023 • 23:17:07] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Shard
+ => Content: bey!shard
+
+[30 Temmuz 2023 • 23:17:18] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Shard
+
+[30 Temmuz 2023 • 23:17:30] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Ayarlar
+
+[30 Temmuz 2023 • 23:18:49] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 23:19:11] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 23:19:15] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 23:19:45] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Galeri
+ => Content: bey!galeri <#1135272494421528681>
+
+[30 Temmuz 2023 • 23:20:21] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Komutlar
+
+[30 Temmuz 2023 • 23:21:07] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Yavaş-mod
+ => Content: bey!yavaşmod 15 sn
+
+[30 Temmuz 2023 • 23:21:23] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Yavaş-mod
+ => Content: bey!yavaşmod 2 sn
+
+[30 Temmuz 2023 • 23:21:37] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Yavaş-mod
+ => Content: bey!yavaşmod kaldır
+
+[30 Temmuz 2023 • 23:22:08] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Ayarlar
+
+[30 Temmuz 2023 • 23:23:37] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Oto-rol
+
+[30 Temmuz 2023 • 23:23:45] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Oto-rol
+
+[30 Temmuz 2023 • 23:24:06] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Sayaç
+
+[30 Temmuz 2023 • 23:27:40] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Nsfw
+ => Content: bey!nsfw anal
+
+[30 Temmuz 2023 • 23:27:54] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Nsfw
+ => Content: bey!nsfw
+
+[30 Temmuz 2023 • 23:28:08] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Nsfw
+ => Content: bey!nsfw hanal
+
+[30 Temmuz 2023 • 23:28:56] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Kelime-oyunu
+
+[30 Temmuz 2023 • 23:29:15] (ERROR) Error Log
+ => ID: 1690748955732
+ => Content: ReferenceError: fs is not defined
+
+[30 Temmuz 2023 • 23:29:47] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciusta (1117559450753060967)
+ => CMD: Kelime-oyunu
+
+[30 Temmuz 2023 • 23:35:58] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 23:36:16] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 23:36:24] (READY) Client ready in shard 1!
+
+[30 Temmuz 2023 • 23:37:03] (CLIENT) Loading Client...
+
+[30 Temmuz 2023 • 23:37:16] (LOG) Connected to MongoDB
+
+[30 Temmuz 2023 • 23:37:19] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:11:12] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:11:57] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:13:01] (ERROR) Error Log
+ => ID: 1690812781911
+ => Content: MongooseError: Operation `guilds.findOne()` buffering timed out after 10000ms
+
+[31 Temmuz 2023 • 17:14:41] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:14:50] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:14:51] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:16:31] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:16:44] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:16:46] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:18:14] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:18:22] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:18:23] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:20:52] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:21:03] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:21:05] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:21:38] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: ᲼᲼᲼kendim için (1063534018114625610)
+ => CMD: Shard
+
+[31 Temmuz 2023 • 17:22:45] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:22:53] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:22:55] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:24:22] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:24:30] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:24:32] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:25:44] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:25:51] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:25:53] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:26:06] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:26:14] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:26:15] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:27:54] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:28:03] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:28:04] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:28:19] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: ᲼᲼᲼kendim için (1063534018114625610)
+ => CMD: Shard
+
+[31 Temmuz 2023 • 17:30:45] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:30:54] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:30:57] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:32:45] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:32:54] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:32:55] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:34:27] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Shard
+
+[31 Temmuz 2023 • 17:34:33] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Komutlar
+
+[31 Temmuz 2023 • 17:35:53] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Prefix
+ => Content: m!prefix bey!
+
+[31 Temmuz 2023 • 17:36:40] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Etkinlik
+
+[31 Temmuz 2023 • 17:38:44] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Çal
+ => Content: bey!Play
+
+[31 Temmuz 2023 • 17:38:57] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Çal
+
+[31 Temmuz 2023 • 17:39:24] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Ses
+
+[31 Temmuz 2023 • 17:40:14] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Trigger
+
+[31 Temmuz 2023 • 17:41:03] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Tekrarla
+
+[31 Temmuz 2023 • 17:41:26] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Durdur
+
+[31 Temmuz 2023 • 17:41:43] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Bitir
+
+[31 Temmuz 2023 • 17:42:01] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Komutlar
+ => Content: bey!help
+
+[31 Temmuz 2023 • 17:42:55] (ERROR) Error Log
+ => ID: 1690814575982
+ => Content: ReferenceError: fs is not defined
+
+[31 Temmuz 2023 • 17:43:24] (ERROR) Error Log
+ => ID: 1690814604001
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:24] (ERROR) Error Log
+ => ID: 1690814604520
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:25] (ERROR) Error Log
+ => ID: 1690814605050
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:25] (ERROR) Error Log
+ => ID: 1690814605600
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:26] (ERROR) Error Log
+ => ID: 1690814606130
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:26] (ERROR) Error Log
+ => ID: 1690814606652
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:27] (ERROR) Error Log
+ => ID: 1690814607177
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:27] (ERROR) Error Log
+ => ID: 1690814607695
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:28] (ERROR) Error Log
+ => ID: 1690814608221
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:28] (ERROR) Error Log
+ => ID: 1690814608752
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:43:29] (ERROR) Error Log
+ => ID: 1690814609340
+ => Content: Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+
+[31 Temmuz 2023 • 17:44:07] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:44:45] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:45:36] (ERROR) Error Log
+ => ID: 1690814736494
+ => Content: MongooseError: Operation `guilds.findOne()` buffering timed out after 10000ms
+
+[31 Temmuz 2023 • 17:45:41] (ERROR) Error Log
+ => ID: 1690814741242
+ => Content: MongooseError: Operation `guilds.findOne()` buffering timed out after 10000ms
+
+[31 Temmuz 2023 • 17:46:11] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:46:20] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:46:21] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:46:31] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Döviz
+ => Content: bey!doviz
+
+[31 Temmuz 2023 • 17:46:46] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Döviz
+ => Content: bey!doviz euro
+
+[31 Temmuz 2023 • 17:46:47] (ERROR) Error Log
+ => ID: 1690814807059
+ => Content: Error while on TCMB request.
+
+[31 Temmuz 2023 • 17:48:05] (CMD) (MESSAGE)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Döviz
+ => Content: bey!doviz dolar
+
+[31 Temmuz 2023 • 17:48:05] (ERROR) Error Log
+ => ID: 1690814885911
+ => Content: Error while on TCMB request.
+
+[31 Temmuz 2023 • 17:51:02] (CLIENT) Loading Client...
+
+[31 Temmuz 2023 • 17:51:14] (LOG) Connected to MongoDB
+
+[31 Temmuz 2023 • 17:51:16] (READY) Client ready in shard 1!
+
+[31 Temmuz 2023 • 17:52:03] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Davet-sistemi
+
+[31 Temmuz 2023 • 17:52:22] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Roller
+
+[31 Temmuz 2023 • 17:53:32] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Oto-rol
+
+[31 Temmuz 2023 • 17:53:49] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Ayarlar
+
+[31 Temmuz 2023 • 17:55:21] (CMD) (INTERACTION)
+ => User: baklavaciusta#0 (823521015643635792)
+ => Guild: baklavaciBOT (1135580998172692491)
+ => CMD: Shard
+
